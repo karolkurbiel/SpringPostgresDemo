@@ -1,6 +1,6 @@
 # SpringPostgresDemo
 Project made during learning Spring Boot.<br>
-The main goal is to create the working database for simple online store model.
+The main goal is to create the working api for simple online store model.
 # Tech
 - Java 11
 - Spring
